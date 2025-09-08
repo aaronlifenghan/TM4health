@@ -11,7 +11,7 @@ by Teodor-Călin Ionescu, Lifeng Han, Jan Heijdra Suasnabar, Suzan Verberne, Ann
 
  BSc. thesis: 
 (Public version](https://theses.liacs.nl/pdf/2024-2025-IonescuTTeodor-Calin.pdf)
-"Topic Modelling Applied to Storytelling Data for Better Patient Care" by Teodor-Călin Ionescu, Bsc thesis in Data Science and AI. supervisors: Dr. Lifeng Han and Prof. Dr. Suzan Verberne.
+"Topic Modelling Applied to Storytelling Data for Better Patient Care" by Teodor-Călin Ionescu, Bsc thesis in Data Science and AI. supervisors: Dr. [Lifeng Han](https://scholar.google.com/citations?user=_vf3E2QAAAAJ&hl=en) and Prof. Dr. [Suzan Verberne](https://www.universiteitleiden.nl/medewerkers/suzan-verberne).
 
 Follow-up plans: scientific article manuscript on extended and scientifically verified experimental work.
 

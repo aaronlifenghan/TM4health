@@ -4,7 +4,7 @@ code and models to be shared for topic modelling project on patients' data.
 
 Original plan: Temporal Topic Modelling (TTM).
 
-#Initial outputs: 
+# Initial outputs: 
 
 CLIN-2025 Abstract / Poster presentation "Analyzing Cancer Patients' Experiences with Embedding-based Topic Modelling
 by Teodor-Călin Ionescu, Lifeng Han, Jan Heijdra Suasnabar, Suzan Verberne, Anne Stiggelbout (on behalf of 4D PICTURE)" [CLIN2025-conf](https://www.ccl.kuleuven.be/CLIN35/posters.html)
